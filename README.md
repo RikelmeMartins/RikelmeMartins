@@ -2,13 +2,14 @@
 
 <div aling="center">
   <a href="https://github.com/RikelmeMartins">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RikelmeMartins&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RikelmeMartins&layout=compact&langs_count=7&theme=dark"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=RikelmeMartins&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RikelmeMartins&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Rike-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Rike-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rike-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="right" alt="Rike-pic" height="130" style="border-radius:50px;" 
   src="https://media.discordapp.net/attachments/763743304570503198/899093160167350302/dormrm.gif?width=837&height=468">
 </div>
