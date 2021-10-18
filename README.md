@@ -1,4 +1,7 @@
-### Olá, me chamo Rikelme Martins, sou um programador iniciante.
+### E ai!! Me chamo Rikelme Martins.
+
+- 👨‍🎓 Estudante, atualmente no ensino médio
+- 👨‍💻 Estudando JAVA
 
 <div aling="center">
   <a href="https://github.com/RikelmeMartins">
