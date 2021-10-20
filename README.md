@@ -14,15 +14,28 @@
   <img align="center" alt="Rike-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rike-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="right" alt="Rike-pic" height="130" style="border-radius:50px;" 
-  src="https://media.discordapp.net/attachments/763743304570503198/899093160167350302/dormrm.gif?width=837&height=468">
+  src="https://media.discordapp.net/attachments/763743304570503198/900529875859959868/210436.gif">
 </div>
 
   ##
   
 <div>
+  <a href="https://github.com/RikelmeMartins">
+  <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/RikelmeMartins">
   <a href="https://www.instagram.com/rikelme_martins1/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/n8MUmY3N" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/rikelme-martins-52944a210/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
  ![Snake animation](https://github.com/RikelmeMartins/RikelmeMartins/blob/output/github-contribution-grid-snake.svg)
 </div>
+
+ 
+  
+ <p align="center"> 
+  
+Total de visitas no meu perfil :detective: <br>
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/RikelmeMartins/count.svg" />
+ </p>
+
+</p>
