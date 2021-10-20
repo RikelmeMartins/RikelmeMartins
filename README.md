@@ -1,4 +1,4 @@
-### E ai!! Me chamo Rikelme Martins.
+### E ai!! Me chamo Rikelme Martins. <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 - 👨‍🎓 Estudante, atualmente no ensino médio
 - 👨‍💻 Estudando JAVA
