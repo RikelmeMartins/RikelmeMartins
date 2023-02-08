@@ -1,6 +1,5 @@
 ### E ai!! Me chamo Rikelme Martins. 
 
-- 👨‍🎓 Estudante, atualmente no ensino médio
 - 👨‍💻 Programador da equipe de robótica Robossauros
 
 <div aling="center">
