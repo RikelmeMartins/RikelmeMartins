@@ -1,6 +1,6 @@
 ### E ai!! Me chamo Rikelme Martins. 
 
-- 👨‍💻 Analysis and System Development at the federal institute in paraíba IFPB.
+- ⚙ Mechanical engineering at the federal institute in paraíba IFPB.
 
 <div aling="center">
   <a href="https://github.com/RikelmeMartins">
