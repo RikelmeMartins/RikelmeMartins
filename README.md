@@ -1,6 +1,6 @@
 ### E ai!! Me chamo Rikelme Martins. 
 
-- ⚙ Mechanical engineering at the federal institute in paraíba IFPB.
+- Computer Science
 
 <div aling="center">
   <a href="https://github.com/RikelmeMartins">
