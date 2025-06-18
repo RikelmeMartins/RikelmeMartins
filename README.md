@@ -26,7 +26,14 @@
  <a href="https://discord.gg/b6JsH4XDr9" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/rikelme-martins-52944a210/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-![snake gif](https://github.com/RikelmeMartins/RikelmeMartins/blob/output/github-contribution-grid-snake.svg) 
+[![GitHub Streak](https://streak-stats.demolab.com?user=RikelmeMartins&theme=github-default&locale=pt_BR&card_width=550&background=000000&border=2A2A2A&ring=ffffff&fire=FF6347&stroke=2A2A2A&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&excludeDaysLabel=FFFFFF)](https://git.io/streak-stats)
+</div>
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joaoluizdev/joaoluizdev/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joaoluizdev/joaoluizdev/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/joaoluizdev/joaoluizdev/output/github-contribution-grid-snake.svg">
+</picture>
 </div>
 
   
